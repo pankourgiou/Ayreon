@@ -1,2 +1,2 @@
-# Through_fire_and_steel
-This is a bot or not implementation. It's written in python and on the issues folder there are 27 .odt files in Kaotican, Zoran, Hylian and Gerudo and 23 more languages. The 3 new languages that we show here will be called Christina 5,6,7 and they are based on python programming using Zoran, Hylian, Gerundo and 23 more languages which are also called Christina 8-30. The program is simple but someone must be able to understand if the poem is written from a robot or a human. A basic direction I think it should be followed is to not rush.
+#Ayreon
+It's a simple comments file
